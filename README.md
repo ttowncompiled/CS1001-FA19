@@ -3,4 +3,5 @@ This is a simple assignment to introduce students in CS 1001 FA 19 to Github.
 Students should add their name below this one. For example,
 
 Ian Riley
+
 Brennan Crowder
