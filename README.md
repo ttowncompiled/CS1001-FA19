@@ -4,6 +4,7 @@ Students should add their name below this one. For example,
 
 Qing Gu or Gu Qing
 Ian Riley
+Logan Quirk AKA rocky42410
 Ben Riethmeier
 Lunjie Zhao
 Zhehan Zhang
