@@ -4,3 +4,15 @@ Students should add their name below this one. For example,
 
 Ian Riley
 Dina Binmansour
+Zhiyong Lu
+Yufeng Yuan
+Xingzhou Li
+Jakob Rasmussen
+Aidan Schiavone
+Tait Smith
+seatattu2
+peng geng
+Ryan Brue
+avp1414
+Mateo Gonzale
+Sarah Ahmed
