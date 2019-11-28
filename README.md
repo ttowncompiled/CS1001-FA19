@@ -5,6 +5,7 @@ Students should add their name below this one. For example,
 Alex Nadjkovic
 Qing Gu or Gu Qing
 Ian Riley
+Elijah Tenkeh
 Jeff Luong
 Ben Cassody
 Aidan Pohl
