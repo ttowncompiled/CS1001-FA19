@@ -2,5 +2,21 @@
 This is a simple assignment to introduce students in CS 1001 FA 19 to Github.
 Students should add their name below this one. For example,
 
+Qing Gu or Gu Qing
 Ian Riley
 Ben Riethmeier
+Lunjie Zhao
+Zhehan Zhang
+Dina Binmansour
+Zhiyong Lu
+Yufeng Yuan
+Xingzhou Li
+Jakob Rasmussen
+Aidan Schiavone
+Tait Smith
+seatattu2
+peng geng
+Ryan Brue
+avp1414
+Mateo Gonzale
+Sarah Ahmed
