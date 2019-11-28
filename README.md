@@ -4,3 +4,11 @@ Students should add their name below this one. For example,
 
 Ian Riley
 Jakob Rasmussen
+Aidan Schiavone
+Tait Smith
+seatattu2
+peng geng
+Ryan Brue
+avp1414
+Mateo Gonzale
+Sarah Ahmed
