@@ -13,6 +13,7 @@ Emily Mathew
 Alex Nadjkovic
 Qing Gu or Gu Qing
 Ian Riley
+Adam Sorrell
 Kameron Eaton
 Thomas Nguyen
 Qadeem Qureshi
