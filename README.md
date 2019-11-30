@@ -13,6 +13,7 @@ Emily Mathew
 Alex Nadjkovic
 Qing Gu or Gu Qing
 Ian Riley
+Sterling Fisher
 Van Nguyen
 Kami Jurenka
 Lily Lu
