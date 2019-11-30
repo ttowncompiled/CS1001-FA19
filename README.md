@@ -11,6 +11,7 @@ Emily Mathew
 Alex Nadjkovic
 Qing Gu or Gu Qing
 Ian Riley
+Nicholas Scott
 Garron Denney
 Kyle Garrison
 Kate Sharp
