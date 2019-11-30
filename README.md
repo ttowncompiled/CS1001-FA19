@@ -7,6 +7,7 @@ Emily Mathew
 Alex Nadjkovic
 Qing Gu or Gu Qing
 Ian Riley
+Jordan White
 Josh Sutton
 Blake Wasson
 Isaiah Smith
