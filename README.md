@@ -7,6 +7,7 @@ Emily Mathew
 Alex Nadjkovic
 Qing Gu or Gu Qing
 Ian Riley
+Logan Patrick
 Cassandra Colin
 Betzy Ortiz Rivas
 Micaiah Barnett
