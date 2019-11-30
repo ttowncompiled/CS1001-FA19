@@ -11,6 +11,7 @@ Emily Mathew
 Alex Nadjkovic
 Qing Gu or Gu Qing
 Ian Riley
+Kate Sharp
 Tyler Tran
 Brennan Gillespie
 Nickolas Marris
