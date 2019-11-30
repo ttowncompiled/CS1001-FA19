@@ -9,6 +9,7 @@ Emily Mathew
 Alex Nadjkovic
 Qing Gu or Gu Qing
 Ian Riley
+Joel Roth
 Kangjie Ouyang
 Seth Carlson
 Blake McDonald
