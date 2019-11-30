@@ -11,6 +11,7 @@ Emily Mathew
 Alex Nadjkovic
 Qing Gu or Gu Qing
 Ian Riley
+Brennan Gillespie
 Nickolas Marris
 Ramal Qureshi
 Brylee Clark
