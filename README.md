@@ -13,6 +13,7 @@ Emily Mathew
 Alex Nadjkovic
 Qing Gu or Gu Qing
 Ian Riley
+Jae Jackson
 lexi ragsdale
 Grey Bodi
 Declan Oberzan
