@@ -7,6 +7,7 @@ Emily Mathew
 Alex Nadjkovic
 Qing Gu or Gu Qing
 Ian Riley
+Ryan Pennington
 Justin Trippe
 Logan Patrick
 Cassandra Colin
