@@ -13,6 +13,7 @@ Emily Mathew
 Alex Nadjkovic
 Qing Gu or Gu Qing
 Ian Riley
+Maxwell Zines
 Ashley Jacobs
 Brennan Crowder
 Sterling Fisher
