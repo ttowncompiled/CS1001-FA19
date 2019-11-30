@@ -7,6 +7,7 @@ Emily Mathew
 Alex Nadjkovic
 Qing Gu or Gu Qing
 Ian Riley
+Kieran Kleinhenz
 Samantha Quintero
 Jordan White
 Josh Sutton
