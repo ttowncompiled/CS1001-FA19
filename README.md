@@ -9,6 +9,7 @@ Emily Mathew
 Alex Nadjkovic
 Qing Gu or Gu Qing
 Ian Riley
+Nickolas Marris
 Ramal Qureshi
 Brylee Clark
 Alden Foster
